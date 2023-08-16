@@ -9,8 +9,10 @@ The recommendation is based on: (0) new user rates 12 movies from 0 to 10. (1) f
 
 Option1: can interact using the keyboard
 
+
 ![Alt text](Keyboard-Interactions.png)
 
 Option2: can interact with the course site
+
 
 ![Alt text](Course-Site-Integration.png)
