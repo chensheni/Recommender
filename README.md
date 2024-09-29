@@ -1,6 +1,6 @@
 # Recommender
 
-This is the Capstone of Java Programming in Coursera. 
+This is the Capstone of Java Programming on Coursera. 
 
 
 The database used in this project is movie data and rating data. 
